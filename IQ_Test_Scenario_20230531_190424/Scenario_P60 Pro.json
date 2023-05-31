@@ -1,0 +1,3580 @@
+{
+	"scen_name": "Test",
+	"action": [
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10150",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10150",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10150 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10150 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10150 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10150 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10140",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10140",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10140 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10140 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10140 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10140 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10130",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10130",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10130 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10130 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10130 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10130 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10120",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10120",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10120 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10120 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10120 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10120 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10110",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10110",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10110 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10110 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10110 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10110 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10100",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10100",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10100 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10100 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10100 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10100 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10090",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10090",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10090 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10090 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10090 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10090 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10080",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10080",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10080 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10080 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10080 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10080 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10070",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10070",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10070 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10070 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10070 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10070 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10060",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10060",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10060 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10060 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10060 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10060 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10050",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10050",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10050 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10050 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10050 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10050 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10040",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10040",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10040 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10040 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10040 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10040 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10030",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10030",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10030 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10030 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10030 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10030 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10020",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10020",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10020 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10020 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10020 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10020 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10010",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10010",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10010 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10010 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10010 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10010 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10000",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10000",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10000 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10000 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10000 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 10000 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9990",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9990",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9990 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9990 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9990 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9990 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9980",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9980",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9980 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9980 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9980 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9980 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9970",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9970",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9970 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9970 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9970 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9970 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9960",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9960",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9960 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9960 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9960 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9960 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9950",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9950",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9950 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9950 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9950 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9950 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9940",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9940",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9940 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9940 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9940 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9940 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9930",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9930",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9930 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9930 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9930 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9930 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9920",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9920",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9920 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9920 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9920 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9920 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9910",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9910",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9910 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9910 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9910 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9910 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9900",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9900",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9900 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9900 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9900 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9900 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9890",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9890",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9890 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9890 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9890 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9890 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9880",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9880",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9880 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9880 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9880 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9880 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9870",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9870",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9870 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9870 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9870 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9870 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9860",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9860",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9860 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9860 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9860 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9860 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9850",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9850",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9850 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9850 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9850 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9850 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9840",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9840",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9840 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9840 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9840 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9840 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9830",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9830",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9830 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9830 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9830 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9830 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9820",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9820",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9820 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9820 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9820 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9820 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9810",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9810",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9810 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9810 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9810 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9810 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9800",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9800",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9800 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9800 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9800 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9800 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9790",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9790",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9790 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9790 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9790 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9790 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9780",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9780",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9780 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9780 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9780 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9780 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9770",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9770",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9770 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9770 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9770 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9770 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9760",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9760",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9760 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9760 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9760 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9760 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9750",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9750",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9750 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9750 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9750 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9750 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9740",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9740",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9740 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9740 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9740 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9740 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9730",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9730",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9730 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9730 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9730 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9730 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9720",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9720",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9720 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9720 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9720 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9720 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9710",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9710",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9710 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9710 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9710 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9710 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9700",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9700",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9700 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9700 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9700 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9700 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9690",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9690",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9690 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9690 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9690 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9690 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9680",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9680",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9680 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9680 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9680 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9680 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9670",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9670",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9670 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9670 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9670 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9670 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9660",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9660",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9660 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9660 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9660 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9660 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9650",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9650",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9650 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9650 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9650 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9650 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9640",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9640",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9640 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9640 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9640 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9640 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9630",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9630",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9630 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9630 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9630 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9630 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9620",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9620",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9620 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9620 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9620 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9620 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9610",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9610",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9610 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9610 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9610 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9610 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9600",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9600",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9600 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9600 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9600 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9600 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9590",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9590",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9590 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9590 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9590 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9590 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9580",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9580",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9580 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9580 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9580 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9580 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9570",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9570",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9570 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9570 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9570 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9570 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9560",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9560",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9560 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9560 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9560 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9560 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9550",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9550",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9550 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9550 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9550 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9550 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9540",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9540",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9540 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9540 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9540 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9540 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9530",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9530",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9530 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9530 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9530 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9530 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9520",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9520",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9520 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9520 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9520 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9520 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9510",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9510",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9510 --f F1.4 --fset 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9510 --f F2.0 --fset 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9510 --f F2.8 --fset 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\P60 Pro.py\" --ypos 9510 --f F4.0 --fset 4.0",
+					"action": []
+				}
+			]
+		}
+	]
+}
