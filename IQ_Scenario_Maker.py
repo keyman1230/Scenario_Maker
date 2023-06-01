@@ -233,7 +233,10 @@ class ImageCaptureScenarioMaker:
 
 
 if __name__ == '__main__':
-    idx_phone = "P60 Pro"
+    idx_phone = "Mate 50 Pro"
+    # idx_phone = "P60 Pro"
+
+
     # idx_phone = "Xiaomi 12s Ultra"
     # idx_phone = "Xiaomi 11 Ultra"
 
