@@ -220,25 +220,23 @@ class ImageCaptureScenarioMaker:
                                         'action': []})
         return dict_scenario
 
-    def phone_control(self, Phone, value_Y, f_num, f_num_set):
+    def phone_control(self, Phone, value_Y, f_num):
         print(log_info_function() + '>> Capture')
         dict_scenario = {'part': '-----------------------------------',
                          'value': f'capture.py" --ypos {value_Y}',
                          'action': []}
         dict_scenario['action'].append({'part': 'CmdRun',
-                                        'value': f'python \"D:\\CTS_Resource\\PhoneControl\\DOF\\{Phone}.py\" --ypos {value_Y} --f {f_num} --fset {f_num_set}',
+                                        'value': f'python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone {Phone} --ypos {value_Y} --f {f_num}',
                                         'action': []})
         return dict_scenario
 
 
 
 if __name__ == '__main__':
-    idx_phone = "Mate 50 Pro"
+    idx_phone = "Xiaomi 13 Ultra"
     # idx_phone = "P60 Pro"
 
 
-    # idx_phone = "Xiaomi 12s Ultra"
-    # idx_phone = "Xiaomi 11 Ultra"
 
     IQS = ImageCaptureScenarioMaker()
     list_phone_chart = []
@@ -246,10 +244,10 @@ if __name__ == '__main__':
     scenario_test = {"scen_name": "Test", "action": []}
     for i in range(10150, 9500, -10):
         scenario_test['action'].append(IQS.move_camjig_y(i))
-        scenario_test['action'].append(IQS.phone_control(idx_phone, i, "F1.4", "1.4"))
-        scenario_test['action'].append(IQS.phone_control(idx_phone, i, "F2.0", "2.0"))
-        scenario_test['action'].append(IQS.phone_control(idx_phone, i, "F2.8", "2.8"))
-        scenario_test['action'].append(IQS.phone_control(idx_phone, i, "F4.0", "4.0"))
+        scenario_test['action'].append(IQS.phone_control(idx_phone, i, 1.9))
+        # scenario_test['action'].append(IQS.phone_control(idx_phone, i, 2.0))
+        # scenario_test['action'].append(IQS.phone_control(idx_phone, i, 2.8))
+        scenario_test['action'].append(IQS.phone_control(idx_phone, i, 4.0))
 
     # Write Scenario to file
     result_folder = './IQ_Test_Scenario_' + _now.strftime('%Y%m%d_%H%M%S')

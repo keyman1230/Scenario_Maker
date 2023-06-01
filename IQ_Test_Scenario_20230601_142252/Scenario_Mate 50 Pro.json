@@ -1,0 +1,3580 @@
+{
+	"scen_name": "Test",
+	"action": [
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10150",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10150",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10150 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10150 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10150 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10150",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10150 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10140",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10140",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10140 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10140 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10140 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10140",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10140 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10130",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10130",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10130 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10130 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10130 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10130",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10130 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10120",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10120",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10120 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10120 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10120 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10120",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10120 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10110",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10110",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10110 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10110 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10110 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10110",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10110 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10100",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10100",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10100 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10100 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10100 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10100",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10100 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10090",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10090",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10090 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10090 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10090 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10090",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10090 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10080",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10080",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10080 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10080 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10080 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10080",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10080 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10070",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10070",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10070 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10070 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10070 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10070",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10070 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10060",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10060",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10060 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10060 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10060 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10060",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10060 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10050",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10050",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10050 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10050 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10050 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10050",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10050 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10040",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10040",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10040 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10040 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10040 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10040",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10040 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10030",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10030",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10030 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10030 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10030 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10030",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10030 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10020",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10020",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10020 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10020 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10020 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10020",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10020 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10010",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10010",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10010 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10010 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10010 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10010",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10010 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 10000",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "10000",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10000 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10000 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10000 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 10000",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 10000 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9990",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9990",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9990 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9990 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9990 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9990",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9990 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9980",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9980",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9980 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9980 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9980 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9980",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9980 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9970",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9970",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9970 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9970 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9970 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9970",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9970 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9960",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9960",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9960 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9960 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9960 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9960",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9960 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9950",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9950",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9950 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9950 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9950 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9950",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9950 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9940",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9940",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9940 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9940 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9940 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9940",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9940 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9930",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9930",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9930 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9930 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9930 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9930",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9930 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9920",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9920",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9920 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9920 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9920 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9920",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9920 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9910",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9910",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9910 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9910 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9910 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9910",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9910 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9900",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9900",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9900 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9900 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9900 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9900",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9900 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9890",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9890",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9890 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9890 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9890 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9890",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9890 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9880",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9880",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9880 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9880 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9880 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9880",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9880 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9870",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9870",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9870 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9870 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9870 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9870",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9870 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9860",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9860",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9860 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9860 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9860 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9860",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9860 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9850",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9850",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9850 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9850 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9850 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9850",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9850 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9840",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9840",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9840 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9840 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9840 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9840",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9840 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9830",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9830",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9830 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9830 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9830 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9830",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9830 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9820",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9820",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9820 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9820 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9820 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9820",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9820 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9810",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9810",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9810 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9810 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9810 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9810",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9810 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9800",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9800",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9800 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9800 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9800 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9800",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9800 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9790",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9790",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9790 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9790 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9790 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9790",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9790 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9780",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9780",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9780 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9780 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9780 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9780",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9780 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9770",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9770",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9770 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9770 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9770 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9770",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9770 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9760",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9760",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9760 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9760 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9760 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9760",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9760 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9750",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9750",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9750 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9750 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9750 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9750",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9750 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9740",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9740",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9740 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9740 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9740 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9740",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9740 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9730",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9730",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9730 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9730 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9730 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9730",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9730 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9720",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9720",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9720 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9720 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9720 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9720",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9720 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9710",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9710",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9710 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9710 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9710 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9710",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9710 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9700",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9700",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9700 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9700 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9700 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9700",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9700 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9690",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9690",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9690 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9690 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9690 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9690",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9690 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9680",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9680",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9680 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9680 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9680 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9680",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9680 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9670",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9670",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9670 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9670 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9670 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9670",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9670 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9660",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9660",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9660 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9660 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9660 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9660",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9660 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9650",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9650",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9650 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9650 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9650 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9650",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9650 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9640",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9640",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9640 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9640 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9640 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9640",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9640 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9630",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9630",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9630 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9630 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9630 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9630",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9630 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9620",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9620",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9620 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9620 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9620 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9620",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9620 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9610",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9610",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9610 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9610 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9610 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9610",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9610 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9600",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9600",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9600 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9600 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9600 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9600",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9600 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9590",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9590",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9590 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9590 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9590 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9590",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9590 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9580",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9580",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9580 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9580 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9580 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9580",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9580 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9570",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9570",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9570 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9570 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9570 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9570",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9570 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9560",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9560",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9560 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9560 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9560 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9560",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9560 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9550",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9550",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9550 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9550 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9550 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9550",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9550 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9540",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9540",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9540 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9540 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9540 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9540",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9540 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9530",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9530",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9530 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9530 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9530 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9530",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9530 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9520",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9520",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9520 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9520 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9520 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9520",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9520 --f 4.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "Move CamJig Y Position to 9510",
+			"action": [
+				{
+					"part": "CamYRun",
+					"value": "9510",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9510 --f 1.4",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9510 --f 2.0",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9510 --f 2.8",
+					"action": []
+				}
+			]
+		},
+		{
+			"part": "-----------------------------------",
+			"value": "capture.py\" --ypos 9510",
+			"action": [
+				{
+					"part": "CmdRun",
+					"value": "python \"D:\\CTS_Resource\\PhoneControl\\DOF\\DOF.py\" --phone Mate 50 Pro --ypos 9510 --f 4.0",
+					"action": []
+				}
+			]
+		}
+	]
+}
